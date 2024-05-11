@@ -1,0 +1,1 @@
+Smart-Home Project simulated on Proteus using AT-Mega32 Microcontroller. The Project is simulating a real smart home with a gate , an alarm and fire systems Admin can access the whole smart home remotely while users only access through LCD and Keypad. Both Admin and Users can control Leds, Dimmer Lamp and AC.
