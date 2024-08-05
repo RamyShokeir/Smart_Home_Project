@@ -1,9 +1,3 @@
-/*
- * DIO_plat_forms.h
- *
- *  Created on: Sep 24, 2023
- *      Author: Mostafa
- */
 
 #ifndef MCAL_DIO_PLAT_FORMS_H_
 #define MCAL_DIO_PLAT_FORMS_H_
