@@ -1,10 +1,3 @@
-/*
- * main_config.h
- *
- *  Created on: Feb 15, 2024
- *      Author: ali elnashar
- */
-
 #ifndef APP_MAIN_CONFIG_H_
 #define APP_MAIN_CONFIG_H_
 
