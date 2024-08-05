@@ -1,9 +1,4 @@
-/*
- * DIO.h
- *
- *  Created on: Sep 24, 2023
- *      Author: Mostafa
- */
+
 
 #ifndef DIO_H_
 #define DIO_H_
