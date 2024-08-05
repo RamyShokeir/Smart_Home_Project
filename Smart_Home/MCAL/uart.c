@@ -1,9 +1,4 @@
-/*
- * uart.c
- *
- *  Created on: Oct 3, 2023
- *      Author: Mostafa
- */
+
 #include"uart.h"
 #define set_8bits_charatersize  (UCSRC|=(1<<URSEL)|(1<<UCSZ0)|(1<<UCSZ1))
 #define select_parity_mode(mode) (UCSRC|=(1<<URSEL)|(1<<UPM1)|(1<<UPM0))
