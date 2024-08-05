@@ -1,9 +1,4 @@
-/*
- * LCD.h
- *
- *  Created on: Sep 1, 2016
- *      Author: ESLAM SAID
- */
+
 
 #ifndef LCD_H_
 #define LCD_H_
