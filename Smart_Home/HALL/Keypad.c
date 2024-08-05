@@ -1,9 +1,4 @@
-/*
- * Keypad.c
- *
- *  Created on: Oct 23, 2016
- *      Author: ESLAM SAID
- */
+
 
 #include "Keypad.h"
 
