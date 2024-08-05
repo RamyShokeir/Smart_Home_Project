@@ -1,9 +1,3 @@
-/*
- * Keypad.h
- *
- *  Created on: Oct 23, 2016
- *      Author: ESLAM SAID
- */
 
 #ifndef HALL_KEYPAD_H_
 #define HALL_KEYPAD_H_
