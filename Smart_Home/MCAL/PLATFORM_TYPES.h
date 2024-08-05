@@ -1,9 +1,4 @@
-/*
- * PLATFORM_TYPES.h
- *
- *  Created on: Aug 5, 2016
- *      Author: ESLAM SAID
- */
+
 
 #ifndef MCAL_PLATFORM_TYPES_H_
 #define MCAL_PLATFORM_TYPES_H_
