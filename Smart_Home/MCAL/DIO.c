@@ -1,9 +1,4 @@
-/*
- * DIO.c
- *
- *  Created on: Sep 25, 2023
- *      Author: Mostafa
- */
+
 
 #include"DIO.h"
 void set_port_direction(port_ID port,port_DIR direction){
