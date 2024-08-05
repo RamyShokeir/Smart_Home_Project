@@ -1,9 +1,4 @@
-/*
- * uart.h
- *
- *  Created on: Oct 3, 2023
- *      Author: Mostafa
- */
+
 
 #ifndef UART_H_
 #define UART_H_
