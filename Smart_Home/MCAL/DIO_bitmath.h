@@ -1,9 +1,4 @@
-/*
- * DIO_bitmath.h
- *
- *  Created on: Sep 25, 2023
- *      Author: Mostafa
- */
+
 
 #ifndef MCAL_DIO_BITMATH_H_
 #define MCAL_DIO_BITMATH_H_
