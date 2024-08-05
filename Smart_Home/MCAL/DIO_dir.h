@@ -1,9 +1,4 @@
-/*
- * DIO_dir.h
- *
- *  Created on: Sep 24, 2023
- *      Author: Mostafa
- */
+
 
 
 #ifndef MCAL_DIO_DIR_H_
