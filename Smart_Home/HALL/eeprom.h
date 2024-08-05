@@ -1,9 +1,3 @@
-/*
- * eeprom.h
- *
- *  Created on: Dec 5, 2023
- *      Author: ali elnashar
- */
 
 #ifndef HALL_EEPROM_H_
 #define HALL_EEPROM_H_
