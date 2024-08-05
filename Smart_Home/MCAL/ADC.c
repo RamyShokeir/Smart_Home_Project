@@ -1,9 +1,3 @@
-/*
- * ADC.c
- *
- *  Created on: Nov 15, 2018
- *      Author: embedded dev/eslam said
- */
 
 
 #include<avr/io.h>
